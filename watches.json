@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "apple watch",
+      "price": 999
+    },
+    {
+      "id": 2,
+      "name": "Samsung watch",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "name": "Redmi watch",
+      "price": 30
+    }
+  ]
